@@ -13,7 +13,9 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-7952B3?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2Cstyle=flat&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
@@ -78,6 +80,8 @@
 
 </div>
 </p>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonmokoo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### [Yermi 님 깃허브](https://github.com/kycasdzxc) 참고해서 대문 꾸미기 했습니다.
 
