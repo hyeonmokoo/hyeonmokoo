@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonmokoo&langs_count=8)](https://github.com/hyeonmokoo/github-readme-stats)
 
 <!--
 **hyeonmokoo/hyeonmokoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
