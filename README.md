@@ -8,6 +8,23 @@
 </div>
 
 <div align=center>
+	<p>🎨 Portfolio & SNS 🎨</p>
+  <!-- web portfolio -->
+	<a href="http://hyeonmokoo.github.io">
+		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+	</a>
+  <!-- blog -->
+	<a href="https://velog.io/@raffier">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+  <!-- mail -->
+	<a href="mailto:hyeonmo9@gmail.comr">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+	<br>
+</div>
+
+<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Languages & Skill ✨</p>
 </div>
@@ -51,23 +68,6 @@
 </div>
 
 <br>
-
-<div align=center>
-	<p>🎨 Portfolio & SNS 🎨</p>
-  <!-- web portfolio -->
-	<a href="http://hyeonmokoo.github.io">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-  <!-- blog -->
-	<a href="https://velog.io/@raffier">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
-  <!-- mail -->
-	<a href="mailto:hyeonmo9@gmail.comr">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<br>
-</div>
 
 <div align=center>
 <!-- git top langs -->
